@@ -2,7 +2,6 @@
 usage: vernam.py [-h] [-k [KEY]] text
 
          Vernam cipher.
---------------------------------
           ___     ___
          (o o)   (o o)
         (  V  ) (  V  ) 
